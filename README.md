@@ -1,1 +1,1 @@
-# pihole-adlists
+# adlists
